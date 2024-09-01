@@ -137,6 +137,11 @@ This project fetches the latest CrossFit workout from the CrossFit website, pars
 
 ### Step 3: Expose the function using Function URL (optional)
 
+- In the Configuration tab of your Lambda function, find the Function URL section.
+- Click **Create function URL**.
+- Choose Auth type as None (if you want the function to be publicly accessible) or AWS IAM for restricted access.
+- Click Create function URL.
+
 ## Additional Notes
 
 - **Ensure Python Version Compatibility**: The Python version in your Lambda function and the Lambda layer must match.
