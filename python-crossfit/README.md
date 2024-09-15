@@ -33,8 +33,8 @@ This project fetches the latest CrossFit workout from the CrossFit website, pars
 1. **Clone the Repository**:
 
 ```bash
- git clone <your-repository-url>
- cd crossfit-workout-fetcher
+ git clone https://github.com/AndrewTtofi/learning.git
+ cd learning/python-crossfit/crossfit-workout-fetcher
 ```
 
 2. **Set Up a Virtual Environment**:
